@@ -1,0 +1,11 @@
+{
+  "name": "intronodejs",
+  "version": "1.0.0",
+  "description": "Introduction to NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kasie Ugwu",
+  "license": "ISC"
+}
